@@ -1,2 +1,1 @@
-# yocode
-this is my first repository
+hacked by nuthan
